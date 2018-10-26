@@ -178,4 +178,19 @@ footer div.socialMedia {
     clear:both;
   }
   ***/
+  .carouselContainer {
+    width:50%;
+    margin: 0 auto; /* center */
+    max-width:1200px; /* if you want to limit how wide*/
+  }
+.addcontainer {width:50%;
+  height: 50%;
+margin: 0 auto; /* center */
+max-width:1200px; /* if you want to limit how wide*/
+
+}
+.buy {width:50%;
+  height: 50%;
+margin-left:245px; /* center */
+max-width:1200px; /* if you want to limit how wide*/
 }
